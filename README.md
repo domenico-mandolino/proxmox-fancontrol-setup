@@ -1,12 +1,12 @@
 # proxmox-fancontrol-setup
 
-# 🧊 Auto FanControl for Proxmox (nct677x)
+# Auto FanControl for Proxmox (nct677x)
 
 Configuration **automatisée, rapide et robuste** de la régulation des ventilateurs PWM pour les systèmes Linux/Proxmox avec les capteurs **Nuvoton nct6775 / nct6779**.
 
 ---
 
-## 🚀 Objectif
+## Objectif
 
 Ce script permet de :
 - Charger le module capteur `nct6775`
@@ -18,7 +18,7 @@ Ce script permet de :
 
 ---
 
-## 🛠️ Pré-requis
+## 🛠Pré-requis
 
 - Proxmox VE (ou toute distrib Linux basée sur Debian)
 - Un chip **nct6775 / nct6779** détecté par `sensors`
