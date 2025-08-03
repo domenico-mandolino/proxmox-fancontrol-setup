@@ -18,7 +18,7 @@ Ce script permet de :
 
 ---
 
-## 🛠Pré-requis
+## Pré-requis
 
 - Proxmox VE (ou toute distrib Linux basée sur Debian)
 - Un chip **nct6775 / nct6779** détecté par `sensors`
